@@ -2,7 +2,7 @@
 
 time: 大三上 2019-4
 
-email: weizw-scut@gmail.com
+email: weizw.scut@gmail.com
 
 school: 华南理工大学
 
